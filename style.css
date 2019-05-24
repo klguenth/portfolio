@@ -7,6 +7,7 @@ body {
     background-image: url('images/white-waves.png');
     font-family: 'Pontano Sans', sans-serif;
     font-size: 16px;
+    margin: 0;
 }
 
 a:active {
@@ -53,7 +54,7 @@ p {
 
 .skillList {
     background-color: rgb(65, 133, 242);
-    border: 1px solid black;
+    border: 1px solid lightslategrey;
     padding: 20px;
     list-style-type: none;
     text-align: center;
@@ -106,9 +107,31 @@ p {
 }
 
 .projectLinks {
-    display: block;
+    display: flex;
     margin-top: 15px;
-    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    justify-content: center;
+}
+
+.projectLinks a {
+    background-color: rgb(65, 133, 242);
+    border-radius: 12px;
+    text-decoration: none;
+    padding: 6px 18px;
+    color: white;
+    margin: 20px 10px;
+    border: 1px solid lightslategrey;
+    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+}
+
+.projectLinks a:hover {
+    background-color: rgb(9, 66, 133);
+    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.92);
 }
 
 .quizAppLive {
