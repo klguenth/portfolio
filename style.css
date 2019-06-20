@@ -106,6 +106,18 @@ p {
     box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
 }
 
+.apiCapstoneImg {
+    width: 60%;
+    height: auto;
+    border-radius: 8px 8px 8px 8px;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border: 1px solid lightslategrey;
+    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
+}
+
 .projectLinks {
     display: flex;
     margin-top: 15px;
