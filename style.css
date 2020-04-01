@@ -95,7 +95,7 @@ p {
 }
 
 .wildlifeWatchImg {
-    width: 60%;
+    max-width: 60%;
     height: auto;
     border-radius: 8px 8px 8px 8px;
     -moz-border-radius: 8px 8px 8px 8px;
