@@ -70,6 +70,11 @@ p {
     padding-right: 10px;
 }
 
+.reactLogo {
+    width: 30px;
+    height: auto;
+}
+
 .htmlLogo {
     width: 30px;
     height: auto;
