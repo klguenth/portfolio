@@ -99,44 +99,8 @@ p {
     text-align: center;
 }
 
-.alamedaComedyImg {
+.screenshotImg {
     max-width: 60%;
-    height: auto;
-    border-radius: 8px 8px 8px 8px;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -webkit-border-radius: 8px 8px 8px 8px;
-    border: 1px solid lightslategrey;
-    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-}
-
-.wildlifeWatchImg {
-    max-width: 60%;
-    height: auto;
-    border-radius: 8px 8px 8px 8px;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -webkit-border-radius: 8px 8px 8px 8px;
-    border: 1px solid lightslategrey;
-    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-}
-
-.quizAppImg {
-    width: 60%;
-    height: auto;
-    border-radius: 8px 8px 8px 8px;
-    -moz-border-radius: 8px 8px 8px 8px;
-    -webkit-border-radius: 8px 8px 8px 8px;
-    border: 1px solid lightslategrey;
-    -webkit-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    -moz-box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-    box-shadow: 0px 6px 5px 0px rgba(208, 223, 250, 0.62);
-}
-
-.apiScreenshotImg {
-    width: 60%;
     height: auto;
     border-radius: 8px 8px 8px 8px;
     -moz-border-radius: 8px 8px 8px 8px;
